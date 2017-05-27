@@ -2,3 +2,4 @@ lesson one for git and github
 add next line
 .git add
 .git commit
+.add new line
