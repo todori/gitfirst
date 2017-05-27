@@ -3,3 +3,4 @@ add next line
 .git add
 .git commit
 .add new line
+.git status
